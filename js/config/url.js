@@ -1,0 +1,1 @@
+export let urlAPI = "https://weekws.buxxed.me/api/presensi/";
